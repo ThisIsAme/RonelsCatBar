@@ -52,7 +52,7 @@ nav ul {
 }
 
 .header-container {
-    position: relative;
+    position: static;
     height: 600px;
     background: #FFD6D6;
     border-width: 0px 4px 4px 4px;
